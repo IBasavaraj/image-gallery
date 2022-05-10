@@ -8,8 +8,3 @@ images.forEach(imgs =>{
         e.target.style.border = "3px solid red";                                    
     });        
 });
-
-
-
-
-
